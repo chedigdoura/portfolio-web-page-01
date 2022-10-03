@@ -1,0 +1,52 @@
+p {
+    border: 2px solid grey;
+}
+
+.title {
+    color:brown ;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    
+}
+
+#up {
+    color: aquamarine ;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#formulaire01 {
+    text-align: center;
+    word-spacing: 2px;
+    
+}
+
+.formulaire label {
+    color: white;
+    font-weight: bold;
+    background-color: grey;
+}
+
+section > p {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: grey;
+    text-size-adjust: 12px;
+}
+
+#navigation_bar {
+    text-align: center;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    font-family: century;
+    font-size: 20px;
+    background-color: yellowgreen;
+    color: white;
+    display: inline center;
+}
+
+#body {
+    font-family: 'Roboto', sans-serif;
+}
